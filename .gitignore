@@ -9,6 +9,10 @@
 .DS_Store
 Thumbs.db
 
+# Screenshots
+screenshots/
+test_screenshot.png
+
 # IDE specific files
 .idea/
 *.iml
